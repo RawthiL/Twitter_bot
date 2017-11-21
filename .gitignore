@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+Salidas/
+Tensorboard_out/
+*.csv
